@@ -1,6 +1,7 @@
 galaxy_info:
   author: "Dalee Dev"
   company: Dalee
+  role_name: "install_php72"
   license: BSD
   description: "PHP 7.2, Composer and XDebug"
   min_ansible_version: 1.4
